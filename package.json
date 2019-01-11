@@ -1,0 +1,19 @@
+{
+  "name": "palestra-nodejs-crypto",
+  "version": "1.0.0",
+  "description": "Repository for my nodeJS crypto talk about best security practices using crypto module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaosdoctor/palestra-nodejs-crypto.git"
+  },
+  "author": "Lucas Santos <lhs.santoss@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khaosdoctor/palestra-nodejs-crypto/issues"
+  },
+  "homepage": "https://github.com/khaosdoctor/palestra-nodejs-crypto#readme"
+}
