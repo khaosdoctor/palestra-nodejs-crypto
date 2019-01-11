@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/khaosdoctor/palestra-nodejs-crypto/issues"
   },
-  "homepage": "https://github.com/khaosdoctor/palestra-nodejs-crypto#readme"
+  "homepage": "https://github.com/khaosdoctor/palestra-nodejs-crypto#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.4.0"
+  }
 }
